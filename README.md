@@ -1,4 +1,4 @@
-# Italian Event Detection and Classification @ CLiC-it2018
+# Italian Event Detection and Classification @ CLiC-it 2018
 
 This repository contains pre-trained models (and system outputs) for event detection and classification in Italian, following the [EVENTI](https://sites.google.com/site/eventievalita2014/) evaluation exercise presented at [EVALITA 2014](http://www.evalita.it/2014).
 
