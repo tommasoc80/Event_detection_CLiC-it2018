@@ -11,8 +11,8 @@ The repository is structured as follows:
 - Convert2CAT: it contains scripts to convert the Bi-LSTM-CRF output in the EVENTI CAT XML format for the evaluation and comparison with other systems.
 
 # Citation
-If you find any of these pre-trained models useful, please cite the following paper: [Italian Event Detection Goes Deep Learning]()
-
+If you find any of these pre-trained models useful, please cite the following papers: 
+- [Italian Event Detection Goes Deep Learning]()
 ```
 @InProceedings{Caselli-Clicit2018,
   author    = {Caselli Tommaso},
@@ -22,5 +22,18 @@ If you find any of these pre-trained models useful, please cite the following pa
   address   = {Turin, Italy},
 }
 ``` 
+- [Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging](https://arxiv.org/abs/1707.09861)
 
+```
+@InProceedings{Reimers:2017:EMNLP,
+  author    = {Reimers, Nils, and Gurevych, Iryna},
+  title     = {{Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging}},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  month     = {09},
+  year      = {2017},
+  address   = {Copenhagen, Denmark},
+  pages     = {338--348},
+  url       = {http://aclweb.org/anthology/D17-1035}
+}
+``` 
 
