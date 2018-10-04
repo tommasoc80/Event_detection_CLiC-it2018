@@ -10,6 +10,9 @@ The repository is structured as follows:
 - Models: it contains pointers to the trained models;
 - Convert2CAT: it contains scripts to convert the Bi-LSTM-CRF output in the EVENTI CAT XML format for the evaluation and comparison with other systems.
 
+A final remark (not so small): by re-training the models from scratch, you may obtain different results.
+
+
 # Citation
 If you find any of these pre-trained models useful, please cite the following papers: 
 - [Italian Event Detection Goes Deep Learning]()
