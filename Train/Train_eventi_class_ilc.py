@@ -1,6 +1,6 @@
-# This script trains the BiLSTM-CNN-CRF architecture for NER in German using
-# the GermEval 2014 dataset (https://sites.google.com/site/germeval2014ner/).
-# The code use the embeddings by Reimers et al. (https://www.ukp.tu-darmstadt.de/research/ukp-in-challenges/germeval-2014/)
+# This script trains the BiLSTM-CNN-CRF architecture for event detection and classification in Italian
+# using the EVENTI 2014 dataset (https://sites.google.com/site/eventievalita2014/).
+# The code use the word embeddings from Cimino and Dell'Orletta 2016. To obtain the embeddings contact: felice.dellorletta@ilc.cnr.it
 from __future__ import print_function
 import os
 import logging
