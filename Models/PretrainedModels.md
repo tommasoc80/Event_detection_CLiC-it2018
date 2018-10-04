@@ -18,5 +18,5 @@ python3 RunModel.py model.h5 inputfile-raw-text-format.txt
 
 Below a plotted chart of the performaces of each pre-trained models against an SVM system (HLT-FBK) that participated to the EVENTI exercise (see paper for more details).
 
-<a href="https://drive.google.com/uc?export=view&id=1sq_l8EssitDh-BQXCKZ1C3l0yh62TKrU><img src="https://drive.google.com/uc?export=view&id=1sq_l8EssitDh-BQXCKZ1C3l0yh62TKrU style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<img src="http://drive.google.com/uc?export=view&id=0B2nmJ_DIvLZtS0VGSnNRVlVTQTA" alt="Google Logo">
 
