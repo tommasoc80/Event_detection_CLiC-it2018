@@ -16,8 +16,8 @@ python3 RunModel.py model.h5 inputfile-raw-text-format.txt
 |[DH-FBK_100](https://drive.google.com/file/d/1IY4xTLi_ijJBuP2vNQ3LsFaT95gr0ovC/view?usp=sharing) | 0.857 | 0.685 | 
 
 
-Below a plotted chart of the performaces of each pre-trained models against an SVM system that participated to the EVENTI exercise (see paper for more details).
+Below a plotted chart of the performaces of each pre-trained models against an SVM system (HLT-FBK) that participated to the EVENTI exercise (see paper for more details).
 
-![Plotted chart](https://www.dropbox.com/s/6r4an0cj9mf0su3/plot_performance.png?dl=0)
+![Plotted chart](https://www.dropbox.com/s/6r4an0cj9mf0su3/plot_performance.png?dl=0.png)
 
 
