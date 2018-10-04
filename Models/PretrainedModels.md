@@ -18,6 +18,6 @@ python3 RunModel.py model.h5 inputfile-raw-text-format.txt
 
 Below a plotted chart of the performaces of each pre-trained models against an SVM system that participated to the EVENTI exercise (see paper for more details).
 
-![https://drive.google.com/file/d/1sq_l8EssitDh-BQXCKZ1C3l0yh62TKrU/view?usp=sharing]
+![https://drive.google.com/drive/u/0/folders/1VloOVa7loaljFVFtjhaNjhXNmFUyGXzw?ogsrc=32]
 
 
