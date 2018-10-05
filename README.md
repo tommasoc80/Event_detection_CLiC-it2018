@@ -15,7 +15,7 @@ A final remark (not so small): by re-training the models from scratch, you may o
 
 # Citation
 If you find any of these pre-trained models useful, please cite the following papers: 
-- [Italian Event Detection Goes Deep Learning]()
+- [Italian Event Detection Goes Deep Learning](https://arxiv.org/abs/1810.02229)
 ```
 @InProceedings{Caselli-Clicit2018,
   author    = {Caselli, Tommaso},
