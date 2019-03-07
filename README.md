@@ -21,7 +21,7 @@ If you find any of these pre-trained models useful, please cite the following pa
   author    = {Caselli, Tommaso},
   title     = {{Italian Event Detection Goes Deep Learning}},
   booktitle = {Proceedings of the 5th Italian Conference on Computational Linguistics (CLiC-it 2018)},
-  year      = {to appear},
+  year      = {2018},
   address   = {Turin, Italy},
 }
 ``` 
